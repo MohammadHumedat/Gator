@@ -28,7 +28,7 @@ TypeScript environment (handled via tsx)
 
 ⚙️ Setup & Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/gator.git
+git clone [https://github.com/MohammadHumedat/Gator.git]
 cd gator
 2️⃣ Install Dependencies
 npm install
